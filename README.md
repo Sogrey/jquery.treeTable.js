@@ -2,7 +2,7 @@
 
 作者: benzhan(詹潮江)
 
-[demo]()
+[demo](https://sogrey.github.io/jquery.treeTable.js/treeTable%20v1.4.2/demo/treeTable.html)
 
 ## 简介
 
